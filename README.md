@@ -1,5 +1,7 @@
 # Druaga Maze Generator (C# and VB.NET Implementation)
 
+![](screenshot.png)
+
 ## Overview
 This project replicates the maze generation algorithm from the classic arcade game, *The Tower of Druaga*. Implemented as a C# console application, it allows users to input a numerical seed ranging from -128 to 255 via the command line. Additionally, the VB.NET module `DruagaMaze.vb` is provided, with functionality identical to the C# version.
 
